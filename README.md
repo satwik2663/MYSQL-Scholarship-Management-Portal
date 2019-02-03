@@ -18,8 +18,8 @@ application depending on the criteria as student background and poverty level.(T
 application form and the list of students fitting the criteria would be selected)<br>
 
 <b> Concepts Covered: </b>
-•	Created triggers, stored procedures, transaction, views to enforce business rules
-•	The database was normalized to eliminate redundancy and to increase consistency
+•	Created triggers, stored procedures, transaction, views to enforce business rules <br>
+•	The database was normalized to eliminate redundancy and to increase consistency <br>
 
 <b> ER diagram: </b>
 Attached 
