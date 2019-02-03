@@ -1,5 +1,5 @@
 # SCHOLARSHIP-PORTAL
-<b> PROBLEM DEFINITION: </b>
+## PROBLEM DEFINITION:##
 Designed, modeled and created a prototype for scholarship portal used by Ministry of Education, India. The database designed is used to 
 represent the scholarship portal by the Ministry of Education in India to provide the platform to make 
 the scholarship schemes available to students.
@@ -17,9 +17,9 @@ various districts and the corresponding student application ID to be verified)<b
 application depending on the criteria as student background and poverty level.(The database here would have the student details in the 
 application form and the list of students fitting the criteria would be selected)<br>
 
-<b> Concepts Covered: </b>
+##Concepts Covered:##
 •	Created triggers, stored procedures, transaction, views to enforce business rules <br>
 •	The database was normalized to eliminate redundancy and to increase consistency <br>
 
-<b> ER diagram: </b>
+## ER diagram: ##
 Attached 
