@@ -1,4 +1,4 @@
-# SCHOLARSHIP-PORTAL <br><br>
+# SCHOLARSHIP-PORTAL 
 
 ## Probelem definition
 Designed, modeled and created a prototype for scholarship portal used by Ministry of Education, India. The database designed is used to 
