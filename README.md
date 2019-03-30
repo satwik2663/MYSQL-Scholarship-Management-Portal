@@ -23,4 +23,5 @@ application form and the list of students fitting the criteria would be selected
 •	The database was normalized to eliminate redundancy and to increase consistency <br>
 
 ## ER diagram ##
-Attached 
+![Capture](https://user-images.githubusercontent.com/37238004/55280006-218f9080-52f6-11e9-9068-e565cecf491d.JPG)
+
